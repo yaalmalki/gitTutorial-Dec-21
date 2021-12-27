@@ -25,3 +25,7 @@ print(c)
 
 sum,flag,name,version=0,1,"Python",3.7
 print(name, flag, version, sum)
+
+#=======================================
+name="Yahia"
+print("Hello, " + name)
